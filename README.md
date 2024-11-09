@@ -1,5 +1,5 @@
 # End-To-End-Computer-Vision-Project-On-Industry-Safety-Detection-Using-Yolov7
-
+The Industry Safety Detection Project Using YOLOv7 focuses on identifying whether workers are wearing helmets in industrial environments. By leveraging the YOLOv7 object detection model, the system analyzes images or video feeds to detect helmet compliance, ensuring safety regulations are followed and helping prevent workplace accidents.
 
 ## Workflows
 
