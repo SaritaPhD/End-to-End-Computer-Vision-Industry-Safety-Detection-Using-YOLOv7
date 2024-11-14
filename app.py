@@ -1,5 +1,5 @@
 import sys,os      
-from isd.pipeline.training_pipeline import TrainPipeline
+from isd.pipeline.training_pipeline import TrainPipeline 
 from isd.exception import isdException
 from isd.utils.main_utils import decodeImage, encodeImageIntoBase64
 from flask import Flask, request, jsonify, render_template,Response
