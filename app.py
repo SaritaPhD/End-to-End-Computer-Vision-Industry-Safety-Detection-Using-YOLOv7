@@ -1,4 +1,4 @@
-import sys,os       
+import sys,os        
 from isd.pipeline.training_pipeline import TrainPipeline 
 from isd.exception import isdException
 from isd.utils.main_utils import decodeImage, encodeImageIntoBase64
